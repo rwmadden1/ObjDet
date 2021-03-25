@@ -1,3 +1,3 @@
 # ObjDet
-first try at creating repository
-this will be for object detection in 2D images
+First try at creating repository.
+This will be for object detection in 2D images.
